@@ -13,6 +13,11 @@ git pull origin master
 git clone 地址
 回退版本
 git reset --hard HEAD^
+三步走
+git add .
+git commit -m"说明信息"
+git push origin master
+
 
 
 
