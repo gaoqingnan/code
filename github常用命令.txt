@@ -17,7 +17,6 @@ git reset --hard HEAD^
 git add .
 git commit -m"说明信息"
 git push origin master
-三步走
 
 
 
