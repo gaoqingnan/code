@@ -1,0 +1,26 @@
+pycharm
+ctrl+shift+L  快速规范化
+ctrl+/    快速注释
+ctrl+Y   删除当前行
+ctrl+鼠标左键   迅速查看源代码
+alt+enter 快速修正
+shift+enter 换行
+
+codeblocks
+ctrl+shift+C 快速注释
+ctrl+shift+X 解除注释
+ctrl+滚轮     字体变化
+
+windows快捷键
+alt+f4  关闭
+ctrl+home 开头
+ctrl+end  末尾
+alt+tab 切换窗口
+win+e 资源管理器
+win+d 最小化
+win+L 锁屏
+win+V 查看剪切板
+ctrl+shift+esc  任务管理器
+ctrl+w 关闭浏览器窗口
+fn+f2 重命名
+control 控制台
